@@ -1,7 +1,7 @@
 ---
 title: "TransUnion"
 subtitle: "Marketing Specialist"
-logo: "src/assets/tu.png"
+logo: "https://i.postimg.cc/zv6M9QPC/tu.png"
 startDate: "2021-11-20"
 endDate: "2024-01-20"
 link: "https://transunion.com"

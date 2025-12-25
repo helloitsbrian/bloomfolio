@@ -1,7 +1,7 @@
 ---
 title: "My Insurance Videos"
 subtitle: "Digital Marketing Assistant / Customer Service"
-logo: "src/assets/miv.png"
+logo: "https://i.postimg.cc/QCwPRznH/miv.png"
 startDate: "2016-05-30"
 endDate: "2018-08-01"
 link: "https://myinsurancevideos.com"

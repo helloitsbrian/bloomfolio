@@ -1,7 +1,7 @@
 ---
 title: "CompTIA"
 subtitle: "OnDemand A+ Certification"
-logo: "src/assets/comptia.png"
+logo: "https://i.postimg.cc/pr47gS1h/comptia.png"
 startDate: "2025-12-15"
 endDate: "2025-12-15"
 link: "https://www.comptia.org/en-us/"

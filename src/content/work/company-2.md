@@ -1,7 +1,7 @@
 ---
 title: "BBB Serving the Pacific Southwest"
 subtitle: "Marketing Coordinator"
-logo: "src/assets/bbb.png"
+logo: "https://i.postimg.cc/yxt5wGr8/bbb.png"
 startDate: "2018-08-20"
 endDate: "2021-11-15"
 link: "https://bbbcommunity.org"
