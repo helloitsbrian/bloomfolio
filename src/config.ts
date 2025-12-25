@@ -95,25 +95,22 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
+  name: "brian",
+  title: "Homelabber & former marketing pro eager to transition into IT roles",
   description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
-  avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
-  email: "hello@example.com",
+    "I’ve spent the last several years turning data into actionable insights, building automated email and social‑media workflows, and creating analytics dashboards that drive growth. I’m now looking to bring that blend of analytical rigor and creative communication to an IT-focused role, where I can help teams build smarter, data‑driven products and improve user experiences.",
+  avatar: "src/assets/bbrian.png",
+  location: "Montana",
+  email: "oh@helloitsbrian.com",
   socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
+    linkedin: "https://linkedin.com/in/briandstoops",
+    bluesky: "https://bsky.app/profile/helloitsbrian.com",
+    instagram: "https://instagram.com/hello.its.brian",
+    youTube: "https://youtube.com/@helloitsbrian",
   },
   enableThemeSelector: true,
   extraLinks: {
-    enable: true,
+    enable: false,
     links: [
       {
         link: "/blog/guides/bloomfolio-complete-guide",
@@ -140,10 +137,10 @@ export const siteConfig: SiteConfig = {
   sections: {
     about: true,
     projects: true,
-    blog: true,
+    blog: false,
     work: true,
     education: true,
-    hackathons: true,
-    contact: true,
+    hackathons: false,
+    contact: false,
   },
 };

@@ -1,10 +1,10 @@
 ---
-title: "ABC Inc"
-subtitle: "Frontend Developer"
-logo: "https://api.dicebear.com/9.x/shapes/svg?seed=Amaya"
-startDate: "2019-01-15"
-endDate: "2021-05-30"
-link: "https://example.com"
+title: "BBB Serving the Pacific Southwest"
+subtitle: "Marketing Coordinator"
+logo: "src/assets/bbb.png"
+startDate: "2018-08-20"
+endDate: "2021-11-15"
+link: "https://bbbcommunity.org"
 ---
 
-Built responsive web applications using Vue.js and modern CSS frameworks. Collaborated with designers to create pixel-perfect user interfaces.
+Curated daily B2B and bi‑weekly B2C newsletters to 20,000+ contacts, produced 22 high‑engagement blogs and a marketing eBook, and managed social media on Facebook, Instagram, LinkedIn, and Twitter—boosting the audience by 14% and engagement by 18%.
