@@ -7,4 +7,4 @@ endDate: "2014-05-15"
 link: "https://pugetsound.edu"
 ---
 
-Focused on software engineering, algorithms, and data structures. Graduated with honors and participated in various coding competitions.
+Emphasis on German literature and music, with minors in business and marketing. Held elected leadership roles in both choir and fraternity organizations.
